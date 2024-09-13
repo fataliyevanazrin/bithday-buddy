@@ -1,6 +1,7 @@
 # Birthday Buddy App
 
 This is a simple React application called **Birthday Buddy**, where you can display a list of people along with their name, age, and image. The app also allows you to clear the list of people with a button click.
+The application is hosted live at: https://nazrin-birthday-buddy.netlify.app/
 
 ## Features
 - Display a list of people, including their name, age, and picture.
